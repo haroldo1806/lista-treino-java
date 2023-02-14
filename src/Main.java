@@ -11,6 +11,7 @@ public class Main {
         int countPositivo = 0;
         int countNegativo = 0;
 
+        // foraó
         for(int i = 0; i < 5; i++){
             double N = s1.nextDouble();
 
